@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Favorite App</string>
+    <string name="my_items">My Items</string>
+    <string name="loading">Loading…</string>
+    <string name="favorite">Favorite</string>
+    <string name="refresh">Refresh</string>
+</resources>
